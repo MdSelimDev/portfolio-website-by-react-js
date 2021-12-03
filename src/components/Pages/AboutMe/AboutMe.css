@@ -1,0 +1,61 @@
+.aboutTextPara {
+  font-size: 18px;
+  font-weight: 400;
+  color: #161c2d;
+  line-height: 1.6;
+  margin-bottom: 25px;
+}
+
+.about-me-social ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.about-me-social ul > li {
+  list-style: none;
+  display: inline-block;
+}
+.about-me-social ul > li > a {
+  margin-right: 25px;
+  background: #56b381;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  display: inline-block;
+  line-height: 50px;
+  font-size: 23px;
+  border-radius: 50px;
+  color: #161c2d;
+}
+.about-me-social > ul > li > a:hover {
+  background: #ffb01c;
+}
+
+.head-main-title {
+  color: #161c2d;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.head-main-title span {
+  color: #fd4c2f;
+  font-size: 50px;
+}
+
+@media (max-width: 600px) {
+  .aboutTextPara {
+    font-size: 14px !important;
+  }
+  .about-me-social ul > li > a {
+    margin-right: 18px;
+    background: #56b381;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    display: inline-block;
+    line-height: 30px;
+    font-size: 18px;
+    border-radius: 50px;
+    color: #161c2d;
+  }
+}

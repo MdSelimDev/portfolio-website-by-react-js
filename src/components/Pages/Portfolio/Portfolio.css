@@ -1,0 +1,48 @@
+.portfolio-single-box {
+  border-radius: 20px;
+  overflow: hidden;
+  position: relative;
+}
+
+.live-website-link {
+  position: absolute;
+  top: -355px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 40px;
+  transition: 0.4s;
+}
+
+.live-website-link a:first-child {
+  margin-top: 25px;
+}
+.live-website-link a {
+  font-size: 18px;
+  display: block;
+  padding: 20px 0;
+  margin: 15px 0;
+  text-decoration: none;
+  font-weight: 600;
+  background: #ffb01c;
+  color: #161c25;
+  border-radius: 30px;
+}
+.portfolio-single-box:hover .live-website-link {
+  top: 0;
+}
+
+@media (max-width: 600px) {
+  .live-website-link {
+    padding: 20px;
+    transition: 0.4s;
+  }
+  .live-website-link a {
+    font-size: 16px;
+    display: block;
+    padding: 10px 0;
+    margin: 8px 0;
+    border-radius: 20px;
+  }
+}
