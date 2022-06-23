@@ -34,7 +34,7 @@ const AboutMe = () => {
                 <ul>
                   <li>
                     <a
-                      href="https://www.facebook.com/md.selim32/"
+                      href="https://www.facebook.com/mdselimdev/"
                       rel="noreferrer"
                       target="_blank"
                     >
@@ -43,7 +43,7 @@ const AboutMe = () => {
                   </li>
                   <li>
                     <a
-                      href="https://github.com/MdSelimDev"
+                      href="https://github.com/mdselimdev"
                       rel="noreferrer"
                       target="_blank"
                     >
@@ -52,7 +52,7 @@ const AboutMe = () => {
                   </li>
                   <li>
                     <a
-                      href="https://twitter.com/md_selim123"
+                      href="https://twitter.com/mdselimdev"
                       rel="noreferrer"
                       target="_blank"
                     >
@@ -61,7 +61,7 @@ const AboutMe = () => {
                   </li>
                   <li>
                     <a
-                      href="https://www.linkedin.com/in/md-selim-3b9551226/"
+                      href="https://www.linkedin.com/in/mdselimdev/"
                       rel="noreferrer"
                       target="_blank"
                     >
@@ -70,7 +70,7 @@ const AboutMe = () => {
                   </li>
                   <li>
                     <a
-                      href="https://www.instagram.com/__md__selim/"
+                      href="https://www.instagram.com/mdselimdev"
                       rel="noreferrer"
                       target="_blank"
                     >
