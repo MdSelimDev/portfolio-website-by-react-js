@@ -20,7 +20,7 @@ const Home = () => {
                 </h1>
                 <a
                   className="text-decoration-none home-page-button"
-                  href="https://drive.google.com/file/d/1GkhPJk-72-Dks6Jmx8wPtQj_iOSk4Hbu/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1GkhPJk-72-Dks6Jmx8wPtQj_iOSk4Hbu/view"
                   download
                   target="_blank"
                   rel="noreferrer"

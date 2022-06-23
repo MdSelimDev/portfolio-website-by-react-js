@@ -25,14 +25,14 @@ const Portfolio = () => {
                   </div>
                   <div className="live-website-link">
                     <a
-                      href="https://github.com/MdSelimDev/bangla-car-ecommerce-website-client-site"
+                      href="https://github.com/mdselimdev/bangla-car-ecommerce-website-client-site"
                       target="_blank"
                       rel="noreferrer"
                     >
                       Client Code
                     </a>
                     <a
-                      href="https://github.com/MdSelimDev/bangla-car-ecommerce-website-server-site"
+                      href="https://github.com/mdselimdev/bangla-car-ecommerce-website-server-site"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -55,14 +55,14 @@ const Portfolio = () => {
                   </div>
                   <div className="live-website-link">
                     <a
-                      href="https://github.com/MdSelimDev/jerins-perlour-website-client-side"
+                      href="https://github.com/mdselimdev/jerins-perlour-website-client-side"
                       target="_blank"
                       rel="noreferrer"
                     >
                       Client Code
                     </a>
                     <a
-                      href="https://github.com/MdSelimDev/jerins-perlour-website-server-side"
+                      href="https://github.com/mdselimdev/jerins-perlour-website-server-side"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -85,7 +85,7 @@ const Portfolio = () => {
                   </div>
                   <div className="live-website-link">
                     <a
-                      href="https://github.com/MdSelimDev/health-evercare-hospital-website"
+                      href="https://github.com/mdselimdev/health-evercare-hospital-website"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -108,7 +108,7 @@ const Portfolio = () => {
                   </div>
                   <div className="live-website-link">
                     <a
-                      href="https://github.com/MdSelimDev/aryan-selim-business-website"
+                      href="https://github.com/mdselimdev/aryan-selim-business-website"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -131,14 +131,14 @@ const Portfolio = () => {
                   </div>
                   <div className="live-website-link">
                     <a
-                      href="https://github.com/MdSelimDev/tour-travel-booking-website-client-side"
+                      href="https://github.com/mdselimdev/tour-travel-booking-website-client-side"
                       target="_blank"
                       rel="noreferrer"
                     >
                       Client Code
                     </a>
                     <a
-                      href="https://github.com/MdSelimDev/tour-travel-booking-website-server-site"
+                      href="https://github.com/mdselimdev/tour-travel-booking-website-server-site"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -161,7 +161,7 @@ const Portfolio = () => {
                   </div>
                   <div className="live-website-link">
                     <a
-                      href="https://github.com/MdSelimDev/Panda-store"
+                      href="https://github.com/mdselimdev/Panda-store"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -177,6 +177,9 @@ const Portfolio = () => {
                   </div>
                 </div>
               </Col>
+              <h3 className="text-center fs-3 text-dark mt-5">
+                More Comming Soon
+              </h3>
             </Row>
           </Container>
         </div>

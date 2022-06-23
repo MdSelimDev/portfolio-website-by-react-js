@@ -45,16 +45,12 @@ const Contact = () => {
                 <p>
                   <b>Email : </b>
                   <a href="mailto:selimakondo58@gmail.com">
-                    md.selim.dev.123@gmail.com
+                    mdselimdev@gmail.com
                   </a>
                 </p>
                 <p>
-                  <b>Phone : </b>
+                  <b>Phone / Whatsapp : </b>
                   <a href="tel:+8801932770803">+8801932770803</a>
-                </p>
-                <p>
-                  <b>Address : </b>
-                  <span>Niguary , Gaffargaon, Myemensingh</span>
                 </p>
               </div>
             </Col>
