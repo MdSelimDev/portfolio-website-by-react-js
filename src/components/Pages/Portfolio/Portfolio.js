@@ -8,13 +8,16 @@ import Health from "../../img/web/health.png";
 import Business from "../../img/web/business.png";
 import Travel from "../../img/web/travel.png";
 import Panda from "../../img/web/panda.png";
+import { Fade } from "react-reveal";
 
 const Portfolio = () => {
   return (
     <div>
       <Header />
-      <h1 className="pt-3 text-center head-main-title">
-        My Portfolio<span>.</span>
+      <Fade top>
+        <h1 className="pt-3 text-center head-main-title">
+          My Portfolio<span>.</span>
+        </h1>
         <div className="py-5">
           <Container>
             <Row>
@@ -183,7 +186,7 @@ const Portfolio = () => {
             </Row>
           </Container>
         </div>
-      </h1>
+      </Fade>
     </div>
   );
 };
